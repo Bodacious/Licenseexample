@@ -1,0 +1,1 @@
+Please read the [LICENSE](LICENSE) for more info
